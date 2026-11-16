@@ -157,6 +157,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         }
 
         hats(recipeOutput);
+        SewingRecipeProvider.buildRecipes(recipeOutput);
 
     }
 

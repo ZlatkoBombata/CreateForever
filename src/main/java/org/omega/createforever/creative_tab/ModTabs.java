@@ -52,6 +52,7 @@ public class ModTabs {
         }
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.ENRICHED_TUFF);
+            event.accept(ModBlocks.SEWING_MACHINE);
         }
     }
 

@@ -2,6 +2,7 @@
   "block.createforever.concrete_powder": "Цимент",
   "block.createforever.concrete": "Бетон",
   "block.createforever.enriched_tuff": "Обогатен Туф",
+  "block.createforever.sewing_machine": "Шевна машина",
 
   "item.createforever.card_pack": "Тесте с карти",
   "tab.createforever.cards": "Карти",
@@ -63,6 +64,16 @@
   "item.createforever.spades_king":"Поп Спатия",
 
   "tab.createforver.hats": "Шапки",
+  "tag.createforever.craftable_hats": "Шапки за изработка",
+  "tag.createforever.christmas_hats": "Коледни шапки",
+  "tag.createforever.legacy_hats": "Класически шапки",
+  "tag.createforever.halloween_hats": "Хелоуински шапки",
+  "tag.createforever.casual_hats": "Ежедневни шапки",
+  "screen.createforever.sewing_machine.preview": "Преглед",
+  "screen.createforever.sewing_machine.ingredients": "Съставки",
+  "screen.createforever.sewing_machine.no_recipe": "Няма рецепта за шиене",
+  "screen.createforever.sewing_machine.tag_ingredient": "Всеки подходящ предмет",
+  "screen.createforever.sewing_machine.sew": "Заший",
 
   "item.createforever.capela": "Капела",
   "item.createforever.crown": "Златна корона",

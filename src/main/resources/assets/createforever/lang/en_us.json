@@ -2,6 +2,7 @@
   "block.createforever.concrete_powder": "Concrete Powder",
   "block.createforever.concrete": "Concrete",
   "block.createforever.enriched_tuff": "Enriched Tuff",
+  "block.createforever.sewing_machine": "Sewing Machine",
 
   "item.createforever.card_pack": "Card Pack",
   "tab.createforever.cards": "Playing Cards",
@@ -60,6 +61,16 @@
   "item.createforever.spades_king":"Spades King",
 
   "tab.createforver.hats": "Hats",
+  "tag.createforever.craftable_hats": "Craftable Hats",
+  "tag.createforever.christmas_hats": "Christmas Hats",
+  "tag.createforever.legacy_hats": "Classic Hats",
+  "tag.createforever.halloween_hats": "Halloween Hats",
+  "tag.createforever.casual_hats": "Casual Hats",
+  "screen.createforever.sewing_machine.preview": "Preview",
+  "screen.createforever.sewing_machine.ingredients": "Ingredients",
+  "screen.createforever.sewing_machine.no_recipe": "No sewing recipe",
+  "screen.createforever.sewing_machine.tag_ingredient": "Any matching item",
+  "screen.createforever.sewing_machine.sew": "Sew",
 
   "item.createforever.capela":"Staw Hat",
   "item.createforever.crown":"Golden Crown",
