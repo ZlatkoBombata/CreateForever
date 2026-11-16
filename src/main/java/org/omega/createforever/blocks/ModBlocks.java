@@ -38,6 +38,10 @@ public class ModBlocks {
                 )
             );
 
+    public static final DeferredBlock<SewingMachineBlock> SEWING_MACHINE =
+            registerBlock("sewing_machine",
+                    () -> new SewingMachineBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.LOOM)));
+
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
         DeferredBlock<T> toReturn = BLOCKS.register(name, block);

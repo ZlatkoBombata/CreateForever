@@ -11,6 +11,8 @@ import net.neoforged.neoforge.event.server.ServerStartingEvent;
 import org.omega.createforever.blocks.ModBlocks;
 import org.omega.createforever.creative_tab.ModTabs;
 import org.omega.createforever.items.ModItems;
+import org.omega.createforever.menus.ModMenus;
+import org.omega.createforever.recipe.ModRecipeTypes;
 import org.slf4j.Logger;
 
 @Mod(CreateForever.MODID)
@@ -23,6 +25,8 @@ public class CreateForever {
 
         ModItems.init(modEventBus);
         ModBlocks.init(modEventBus);
+        ModMenus.init(modEventBus);
+        ModRecipeTypes.init(modEventBus);
         ModTabs.init(modEventBus);
 
         NeoForge.EVENT_BUS.register(this);
